@@ -1,0 +1,6 @@
+Zaimplementowane funkcjonalności:
+- front-end
+- back-end LLVM
+- optymalizacja obliczania stałych wyrażeń / uproszczenie wyliczalnych instrukcji (src/Optimizer.hs)
+- tablice
+- obiekty z metodami wirtualnymi
